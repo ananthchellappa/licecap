@@ -1,0 +1,42 @@
+﻿  filebrowse.cpp
+  lice.cpp
+  lice_arc.cpp
+  lice_gif.cpp
+  lice_gif_write.cpp
+  lice_lcf.cpp
+  lice_line.cpp
+  lice_palette.cpp
+  lice_text.cpp
+  wndsize.cpp
+  licecap_ui.cpp
+D:\Projects Data\Upwork\005 Ananth\licecap-master\WDL\lice\lice_palette.cpp(151,28): warning C4018: '>=': signed/unsigned mismatch
+D:\Projects Data\Upwork\005 Ananth\licecap-master\WDL\lice\lice_gif_write.cpp(353,25): warning C4018: '<': signed/unsigned mismatch
+D:\Projects Data\Upwork\005 Ananth\licecap-master\WDL\lice\lice_gif_write.cpp(359,25): warning C4018: '<': signed/unsigned mismatch
+D:\Projects Data\Upwork\005 Ananth\licecap-master\WDL\lice\lice_gif_write.cpp(473,27): warning C4018: '<': signed/unsigned mismatch
+D:\Projects Data\Upwork\005 Ananth\licecap-master\WDL\lice\lice_lcf.cpp(419,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects Data\Upwork\005 Ananth\licecap-master\licecap\licecap_ui.cpp(237,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects Data\Upwork\005 Ananth\licecap-master\licecap\licecap_ui.cpp(237,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects Data\Upwork\005 Ananth\licecap-master\licecap\licecap_ui.cpp(238,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects Data\Upwork\005 Ananth\licecap-master\licecap\licecap_ui.cpp(238,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects Data\Upwork\005 Ananth\licecap-master\licecap\licecap_ui.cpp(929,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects Data\Upwork\005 Ananth\licecap-master\licecap\licecap_ui.cpp(960,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects Data\Upwork\005 Ananth\licecap-master\licecap\licecap_ui.cpp(960,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects Data\Upwork\005 Ananth\licecap-master\licecap\licecap_ui.cpp(1215,45): warning C4018: '>=': signed/unsigned mismatch
+D:\Projects Data\Upwork\005 Ananth\licecap-master\licecap\licecap_ui.cpp(1372,34): warning C4018: '>': signed/unsigned mismatch
+D:\Projects Data\Upwork\005 Ananth\licecap-master\WDL\filebrowse.cpp(430,76): warning C4838: conversion from 'int' to 'DWORD' requires a narrowing conversion
+  dgif_lib.c
+  egif_lib.c
+  gifalloc.c
+  gif_hash.c
+  win32_utf8.c
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  infback.c
+  inffast.c
+  inflate.c
+  inftrees.c
+  trees.c
+  zutil.c
+  licecap.vcxproj -> D:\Projects Data\Upwork\005 Ananth\licecap-master\licecap\licecap\Debug_new\licecap.exe
